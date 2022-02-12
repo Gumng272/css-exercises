@@ -25,6 +25,10 @@ body {
   height:  48px;
 }
 
+.left {
+  display: flex;
+}
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
