@@ -25,6 +25,10 @@ ul {
   padding-inline-start: 10px;
   display: flex;
 }
+
+li {
+  margin: 10px;
+}
 a {
   font-size: 22px;
   background: white;
