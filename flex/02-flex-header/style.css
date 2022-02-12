@@ -4,17 +4,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 
-.left-links {
-  display: flex;
-  justify-content: flex-start;
-}
 
-.right-links {
-  display: flex;
-  justify-content: flex-end;
-}
 
 .logo {
   font-size: 48px;
@@ -22,23 +15,18 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  margin: 10px;
+  
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 10px;
-  margin-inline-end: 10px;
-  padding-inline-start: 10px;
   display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 8px;
 }
 
-li {
-  margin: 10px;
-}
 a {
   font-size: 22px;
   background: white;
