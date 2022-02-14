@@ -29,6 +29,11 @@ body {
   display: flex;
 }
 
+.right {
+  display: flex;
+  gap: 16px;
+}
+
 .logo {
   color: rebeccapurple;
   font-size: 32px;
