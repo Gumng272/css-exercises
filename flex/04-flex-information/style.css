@@ -20,6 +20,13 @@ img {
   padding-bottom: 32px;
 }
 
+.bberry, .cchili, .ppepper, .ssaffron {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 52px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
