@@ -4,6 +4,7 @@ body {
 
 .info {
   display: flex;
+  padding: 52px;
 }
 
 img {
