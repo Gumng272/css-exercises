@@ -2,9 +2,10 @@ body {
   font-family: 'Courier New', Courier, monospace;
 }
 
-.info {
+.container {
   display: flex;
-  padding: 52px;
+  justify-content: center;
+  gap: 52px;
 }
 
 img {
