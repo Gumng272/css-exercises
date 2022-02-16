@@ -1,5 +1,6 @@
 body {
   font-family: 'Courier New', Courier, monospace;
+  text-align: center;
 }
 
 .container {
@@ -21,16 +22,10 @@ img {
   margin-bottom: 32px;
 }
 
-.bberry, .cchili, .ppepper, .ssaffron {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 52px;
+.info {
+  max-width: 200px;
 }
 
-.text {
-  text-align: center;
-}
 /* do not edit this footer */
 .footer {
   position: fixed;
