@@ -21,6 +21,12 @@ a {
   gap: 15px;
 }
 
+.right-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 15px;
+}
+
 img {
   width: 600px;
 }
