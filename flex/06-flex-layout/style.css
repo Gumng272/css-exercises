@@ -11,6 +11,11 @@ a {
   text-decoration: none;
 }
 
+.header, .footer {
+  display: flex;
+  justify-content: space-between;
+}
+
 .left-links, .right-links{
   list-style: none;
 }
@@ -52,3 +57,4 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
