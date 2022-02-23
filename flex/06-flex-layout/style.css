@@ -15,6 +15,12 @@ a {
   list-style: none;
 }
 
+.left-links {
+  display: flex;
+  justify-content: flex-start;
+  gap: 15px;
+}
+
 img {
   width: 600px;
 }
