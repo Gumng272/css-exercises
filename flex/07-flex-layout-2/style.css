@@ -32,6 +32,10 @@ body {
   flex-grow: 1;
 }
 
+.container2 {
+  padding: 32px;
+}
+
 .sidebar {
   width: 300px;
   background: royalblue;
